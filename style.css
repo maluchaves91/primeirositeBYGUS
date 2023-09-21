@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+}
+
+button{
+    font-size: 20px;
+    padding: 10px;
+    border-style: ridge;
+    border-color: white;
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
+
+footer{
+    bottom:0;
+    margin-top: 200px;  
+}
+
+a{
+    text-decoration: none;
+    color:yellow;
+}
